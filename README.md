@@ -27,7 +27,7 @@ Here's a glimpse of the **Glow in the Dark Social Media Links** in action:
 ## 🛠️ Installation & Usage
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ANTABOGA/glow-social-links.git
+   https://github.com/Antaboga/navigation-animation
    ```
 2. Open the `index.html` file in your browser to see the glowing social media links.
 
